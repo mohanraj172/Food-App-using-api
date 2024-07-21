@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    border: none;
+    font-family: sans-serif;
+}
+#input{
+    width: 50%;
+    background-color: bisque;
+    height: 40px;
+    border-radius:10px;
+    padding: 20px; 
+}
+ 
+#btn{
+    width: 10%;
+    height: 40px;
+    position: absolute;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    color: white;
+    background-color:hsla(120, 94%, 27%, 0.644);
+}
+#searchresult{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    gap: 30px;
+}
+.card{
+    width: 300px;
+    border-radius: 30px;
+    gap: 20px;
+    box-shadow: 5px 5px 5px rgb(63, 62, 62);
+}
+.heading{
+    
+}
